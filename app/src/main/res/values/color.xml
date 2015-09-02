@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="primary_color_dark_yellow">#ffd600</color>
+    <color name="primary_color_yellow">#ffeb3B</color>
+    <color name="window_background_color">#eceff1</color>
+
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorPrimaryLight">#FFE0B2</color>
+    <!-- accent color: red -->
+    <color name="colorAccent">#FF5252</color>
+    <!-- text color: white -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#000000</color>
+    <!-- inverse text color: 87% black -->
+    <color name="textColorPrimaryInverse">#DE000000</color>
+    <color name="textColorSecondaryInverse">#9E9E9E</color>
+
+    <!-- alternative color palette -->
+    <color name="colorPrimaryInverse">#424242</color>
+    <color name="colorPrimaryDarkInverse">#00000000</color>
+
+    <color name="line_color">#eceff1</color>
+</resources>
