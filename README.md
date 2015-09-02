@@ -1,5 +1,5 @@
 # DesignLibDemo
-a simple demo for Android Design Support Library,it include
+a simple demo for Android Design Support Library,it includes
 1 Navigation View
 2 Floating Action Button
 3 Snackbar
